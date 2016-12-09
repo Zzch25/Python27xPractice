@@ -1,0 +1,6 @@
+X4$: #, A, C, D
+X2: B, K, L, M
+X3: B, C, Q, V
+X1: A, B, C, D
+X6: A, O, P, R
+X5: D, J, T, Y
